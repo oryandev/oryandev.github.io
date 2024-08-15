@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oryandev.github.io/sitemap.html.gz
+Sitemap: https://oryandev.github.io/app/sitemap.html.gz
+Sitemap: https://oryandev.github.io/assets/sitemap.html.gz
+Sitemap: https://oryandev.github.io/css/sitemap.html.gz
+Sitemap: https://oryandev.github.io/includes/sitemap.html.gz
+Sitemap: https://oryandev.github.io/item/sitemap.html.gz
+Sitemap: https://oryandev.github.io/src/sitemap.html.gz
